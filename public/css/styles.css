@@ -3,3 +3,9 @@
 .bg-brown {
     background-color: #9f8170;
 }
+
+.btn-brown {
+    color: #fff;
+    background-color: #9f8170;
+    border-color: #9f8170;
+}
